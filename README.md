@@ -1,1 +1,1 @@
-# See [https://eng.holvonix.com/notices/](https://eng.holvonix.com/notices/)
+# See [https://inside.holvonix.com/notices/](https://inside.holvonix.com/notices/)
